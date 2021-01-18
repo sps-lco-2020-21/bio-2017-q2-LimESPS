@@ -1,0 +1,10 @@
+C:\Users\eyhli\OneDrive\Documents\GitHub\bio-2017-q2-LimESPS\BIO_Q2\BIO_Q2.App\bin\Debug\BIO_Q2.App.exe.config
+C:\Users\eyhli\OneDrive\Documents\GitHub\bio-2017-q2-LimESPS\BIO_Q2\BIO_Q2.App\bin\Debug\BIO_Q2.App.exe
+C:\Users\eyhli\OneDrive\Documents\GitHub\bio-2017-q2-LimESPS\BIO_Q2\BIO_Q2.App\bin\Debug\BIO_Q2.App.pdb
+C:\Users\eyhli\OneDrive\Documents\GitHub\bio-2017-q2-LimESPS\BIO_Q2\BIO_Q2.App\bin\Debug\BIO_Q2_GRID.lib.dll
+C:\Users\eyhli\OneDrive\Documents\GitHub\bio-2017-q2-LimESPS\BIO_Q2\BIO_Q2.App\bin\Debug\BIO_Q2_GRID.lib.pdb
+C:\Users\eyhli\OneDrive\Documents\GitHub\bio-2017-q2-LimESPS\BIO_Q2\BIO_Q2.App\obj\Debug\BIO_Q2.App.csprojAssemblyReference.cache
+C:\Users\eyhli\OneDrive\Documents\GitHub\bio-2017-q2-LimESPS\BIO_Q2\BIO_Q2.App\obj\Debug\BIO_Q2.App.csproj.CoreCompileInputs.cache
+C:\Users\eyhli\OneDrive\Documents\GitHub\bio-2017-q2-LimESPS\BIO_Q2\BIO_Q2.App\obj\Debug\BIO_Q2.App.csproj.CopyComplete
+C:\Users\eyhli\OneDrive\Documents\GitHub\bio-2017-q2-LimESPS\BIO_Q2\BIO_Q2.App\obj\Debug\BIO_Q2.App.exe
+C:\Users\eyhli\OneDrive\Documents\GitHub\bio-2017-q2-LimESPS\BIO_Q2\BIO_Q2.App\obj\Debug\BIO_Q2.App.pdb
